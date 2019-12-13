@@ -12,3 +12,5 @@ print("local rebase...")
 
 print("branch V3....local")
 
+print("example for fetch")
+
